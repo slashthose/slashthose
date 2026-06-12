@@ -39,7 +39,7 @@ A recommendation chatbot that suggests books based on user preferences and inter
 
 Tech: Python, Machine Learning, NLP
 
-🔗 Repository: YOUR_PROJECT_LINK
+🔗 Repository: https://github.com/slashthose/PBEL-Intership-Project.
 
 ---
 
