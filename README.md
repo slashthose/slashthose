@@ -1,4 +1,4 @@
-# hi, I am Sakshi 👋
+# hi, I'm Sakshi 👋
 
 BTech student trying to become the kind of engineer who can build useful things from scratch and understand how they work under the hood.
 
@@ -18,48 +18,22 @@ My current focus is pretty simple: build strong fundamentals, get really good at
 
 ---
 
-### what i think about a lot
-
-* building something from scatch is th best way to learn
-* creation takes a lot of your will
-* how my ideas can be real
-
----
-
 ### 🛠 tech stack
 
-#### languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,git,github,vscode)](https://skillicons.dev)
 
-Python • C • SQL 
+**Data & Analytics:** SQL • NumPy • Pandas • Scikit-Learn • Power BI
 
-#### tools
+**Currently Exploring:** DSA • Backend Development • Open Source • System Design
 
-Git • GitHub • VS Code • Power BI• Numpy • Pandas • Scikit learn
-
-#### currently exploring
-
-DSA • Backend Development • Open Source • System Design
-
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
-
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=sql,git,github,vscode,tensorflow,flask)](https://skillicons.dev)
-
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 ---
 
 
-###featured projects
-####Book Recommendation Chatbot
+### featured projects
+
+
+#### Book Recommendation Chatbot
 
 A recommendation chatbot that suggests books based on user preferences and interests.
 
@@ -67,7 +41,9 @@ Tech: Python, Machine Learning, NLP
 
 🔗 Repository: YOUR_PROJECT_LINK
 
-💳 Credit Card Fraud Detection
+---
+
+#### Credit Card Fraud Detection
 
 Machine Learning project that identifies fraudulent transactions using classification algorithms and data analysis.
 
