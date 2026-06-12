@@ -40,7 +40,7 @@ Git • GitHub • VS Code • Power BI• Numpy • Pandas • Scikit learn
 
 DSA • Backend Development • Open Source • System Design
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,sql,git,github,vscode,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,sql,github,vscode,tensorflow)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
