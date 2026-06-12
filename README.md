@@ -6,7 +6,7 @@ I spend most of my time writing code, solving problems, fixing projects (takes m
 
 My current focus is pretty simple: build strong fundamentals, get really good at problem-solving, and create projects that add value to the workd not just for resume.
 
-### what's currently happening
+### current status
 
 🔨 building — projects with Python, SQL, and whatever tool helps get the job done
 
