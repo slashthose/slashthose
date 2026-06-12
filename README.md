@@ -41,7 +41,8 @@ Git • GitHub • VS Code • Power BI• Numpy • Pandas • Scikit learn
 DSA • Backend Development • Open Source • System Design
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,sql,\git,github,vscode,tensorflow,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,git,github,vscode,tensorflow,flask)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
