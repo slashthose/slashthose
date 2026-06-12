@@ -50,8 +50,8 @@ DSA • Backend Development • Open Source • System Design
 ---
 
 
-# featured projects
-# Book Recommendation Chatbot
+###featured projects
+####Book Recommendation Chatbot
 
 A recommendation chatbot that suggests books based on user preferences and interests.
 
@@ -79,7 +79,7 @@ Tech: Python, Pandas, Scikit-learn
 
 ---
 
-## 🌐 Connect With Me
+### connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-singh-051819350?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sakshitanwar2006@gmail.com)
