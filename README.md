@@ -49,7 +49,7 @@ Machine Learning project that identifies fraudulent transactions using classific
 
 Tech: Python, Pandas, Scikit-learn
 
-🔗 Repository: YOUR_PROJECT_LINK
+🔗 Repository: https://github.com/slashthose/Machine-Learning-Project
 
 ---
 
