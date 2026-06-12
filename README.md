@@ -40,10 +40,32 @@ Git • GitHub • VS Code • Power BI• Numpy • Pandas • Scikit learn
 
 DSA • Backend Development • Open Source • System Design
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,sql,git,github,vscode,tensorflow)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 ---
 
-### projects
 
+# featured projects
+# Book Recommendation Chatbot
+
+A recommendation chatbot that suggests books based on user preferences and interests.
+
+Tech: Python, Machine Learning, NLP
+
+🔗 Repository: YOUR_PROJECT_LINK
+
+💳 Credit Card Fraud Detection
+
+Machine Learning project that identifies fraudulent transactions using classification algorithms and data analysis.
+
+Tech: Python, Pandas, Scikit-learn
+
+🔗 Repository: YOUR_PROJECT_LINK
 
 ---
 
@@ -59,7 +81,7 @@ DSA • Backend Development • Open Source • System Design
 
 ### find me
 
-💼 LinkedIn
+💼 LinkedIn https://www.linkedin.com/in/sakshi-singh-051819350?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 💻 GitHub
 
