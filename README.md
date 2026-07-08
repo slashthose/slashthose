@@ -135,7 +135,9 @@ Tech: Python, Pandas, Scikit-learn
   <a href="https://github.com/slashthose">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slashthose&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="slashthose's GitHub Stats" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=slashthose&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=slashthose&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 
