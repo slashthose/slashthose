@@ -12,7 +12,7 @@ BTech student trying to become the kind of engineer who can build useful things 
 
 I spend most of my time writing code, solving problems, fixing projects (takes most of my time), and then wondering why the fix created three new bugs.
 
-My current focus is pretty simple: build strong fundamentals, get really good at problem-solving, and create projects that add value to the workd not just for resume.
+My current focus is pretty simple: build strong fundamentals, get really good at problem-solving, and create projects that add value to the world not just for resume.
 
 ## current status
 
