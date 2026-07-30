@@ -1,7 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sakshi%20Singh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-singh-051819350"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sakshitanwar2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=slashthose&style=for-the-badge&color=a371f7" alt="profile views" />
+</p>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Building+AI+agents%2C+RAG+apps;Working+on+DSA;Always+debugging+something" alt="Typing SVG" />
+</p>
 
 
 
@@ -78,37 +84,56 @@ My current focus is pretty simple: build strong fundamentals, get really good at
 
 ---
 
-## 🛠 tech stack
+### 🛠 Tech Stack
 
-**Data & Analytics:** SQL • NumPy • Pandas • Scikit-Learn • Power BI
-
-**Currently Exploring:** DSA • Backend Development • Open Source • System Design
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 ---
 
+## 🔨 Projects
 
-## featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 📄 Resume Analyser
+A resume screening tool that parses resumes and surfaces relevant information automatically.
 
-### Book Recommendation Chatbot
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-A recommendation chatbot that suggests books based on user preferences and interests.
+</td>
+<td width="50%" valign="top">
 
-Tech: Python, Machine Learning, NLP
+### 💳 Credit Card Fraud Detection
+A classification model that flags fraudulent transactions, deployed with a FastAPI backend and custom frontend.
 
-🔗 Repository: https://github.com/slashthose/PBEL-Intership-Project.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
+🔗 [Repository](https://github.com/slashthose/Machine-Learning-Project)
 
+</td>
+</tr>
+</table>
 
-
-### Credit Card Fraud Detection
-
-Machine Learning project that identifies fraudulent transactions using classification algorithms and data analysis.
-
-Tech: Python, Pandas, Scikit-learn
-
-🔗 Repository: https://github.com/slashthose/Machine-Learning-Project
 
 ----
 
