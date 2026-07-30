@@ -118,6 +118,13 @@ A resume screening tool that parses resumes and surfaces relevant information au
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
+🔗 [Repository](https://github.com/slashthose/Resume-Parser)
+
+
+
+
+[![Deployment](https://img.shields.io/badge/⚡_Live_Desk-Open_App-black?style=for-the-badge)](https://resumescreener-mu.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -127,6 +134,8 @@ A classification model that flags fraudulent transactions, deployed with a FastA
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+
 
 🔗 [Repository](https://github.com/slashthose/Machine-Learning-Project)
 
