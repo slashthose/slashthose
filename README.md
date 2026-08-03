@@ -28,7 +28,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=slashthose&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/slashthose?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&logo=github" />
 <img src="https://img.shields.io/github/stars/slashthose?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github" />
 
