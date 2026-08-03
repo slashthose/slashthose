@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+<img src="./assets/banner.gif" width="100%" height="50%"/>
 <br/>
 
 <br/>
@@ -42,7 +42,7 @@
 
 ## 🪐 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+<img align="right" width="380" src="./assets/section.jpg" />
 
 ```yaml
 engineer: Sakshi
