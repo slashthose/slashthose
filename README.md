@@ -243,28 +243,6 @@ media storage and WhiteNoise for static file serving.
 
 <br/>
 
-## 💼 Experience
-
-### AI Message Notification Router — HackerRank Hackathon
-**Orchestrate August26 Challenge**
-`August 2026`
-
-Built an AI system that classifies inbound WhatsApp messages into **notify / digest / mute**
-routing tiers, reasoning jointly over text, image posters/screenshots, and voice notes.
-
-- Designed a multimodal classification pipeline handling text, image, and audio inputs
-- Produced structured prediction outputs against a provided message dataset
-- Prepared full submission artifacts: code, predictions, and reasoning transcripts
-- Completed a live AI Judge technical interview as part of the evaluation process
-
-`Multimodal ML` `Classification` `Prompt Engineering` `Python`
-
-<br/>
-
----
-
-<br/>
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -322,20 +300,6 @@ routing tiers, reasoning jointly over text, image posters/screenshots, and voice
 <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=slashthose&theme=tokyonight" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=slashthose&theme=react-dark&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" />
 
 </div>
 
