@@ -58,13 +58,13 @@ philosophy: >
 <br/>
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence**, focused on
-building AI systems that go beyond notebooks — from **retrieval pipelines with measured
+building AI systems that go beyond notebooks - from **retrieval pipelines with measured
 recall@k**, to **computer vision models deployed on real hardware constraints**, to
 **full stack products shipped end-to-end**. My work sits at the intersection of applied
 ML research and production software engineering: I care as much about a model's
 evaluation harness as I do about its API's latency.
 
-I approach every project with a **product engineering mindset** — identifying weak
+I approach every project with a **product engineering mindset** - identifying weak
 assumptions, fixing them with justified design choices, and shipping something a
 technical reviewer can interrogate.
 
@@ -287,8 +287,8 @@ routing tiers, reasoning jointly over text, image posters/screenshots, and voice
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sakshi8093/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.hackerrank.com/profile/sakshitanwar2006"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
 
 </div>
@@ -303,12 +303,11 @@ routing tiers, reasoning jointly over text, image posters/screenshots, and voice
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=slashthose&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=6d28d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=slashthose&theme=radical&hide_border=true&background=0d0221&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" />
+<img src="https://ghstats.dev/api/card?username=slashthose&theme=tokyonight&border_radius=11.5" alt="GitHub Stats Card" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashthose&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" />
+
 
 </div>
 
@@ -321,8 +320,8 @@ routing tiers, reasoning jointly over text, image posters/screenshots, and voice
 ## 🏅 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=slashthose&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  
+<img src="https://github-profile-trophy.vercel.app/?username=slashthose&theme=tokyonight" />
 
 </div>
 
@@ -342,48 +341,6 @@ routing tiers, reasoning jointly over text, image posters/screenshots, and voice
 
 <br/>
 
----
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/slashthose/slashthose/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - "GPT architecture from scratch (Karpathy methodology)"
-  - "Production RAG evaluation methodologies"
-  - "Open source contribution workflows (Redis, Docker, CI/CD)"
-
-building:
-  - "Multimodal RAG application with recall@k evaluation"
-  - "Defensible ISL interpreter with documented evaluation splits"
-  - "AI message notification router (HackerRank hackathon)"
-
-exploring:
-  - "Developer tooling and CLI package publishing"
-  - "Cloud-native deployment patterns (AWS, Azure)"
-
-open_to:
-  - "AI/ML Engineering Internships"
-  - "Full Stack Development Roles"
-  - "Applied Research Collaborations"
-```
-
-<br/>
 
 ---
 
@@ -393,8 +350,8 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sakshitanwar2006.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/sakshi-singh-tanwar"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/slashthose"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
