@@ -41,7 +41,7 @@
 
 ## 🪐 About Me
 
-<img align="right" width="380" src="./assets/section.jpg" />
+<img align="right" width="380" src="./assets/ascii-art.png" />
 
 ```yaml
 engineer: Sakshi
